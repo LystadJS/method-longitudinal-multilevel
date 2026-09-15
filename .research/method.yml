@@ -1,0 +1,23 @@
+schema_version: '1.0'
+method:
+  id: longitudinal-multilevel
+  label: Longitudinal and Multilevel Statistics
+  repository: LystadJS/method-longitudinal-multilevel
+  status: planned
+  summary: Methods for repeated observations, nested data, trajectories, and hierarchical
+    dependence.
+  family: []
+  aliases:
+  - Longitudinal and Multilevel Statistics
+  - longitudinal multilevel
+  techniques:
+  - diffusion-analysis
+  - dynamic-networks
+  - multilevel-modeling
+  - longitudinal-analysis
+  - mixed-effects-modeling
+  related_methods:
+  - network-analysis
+  languages:
+  - R
+  - Python
